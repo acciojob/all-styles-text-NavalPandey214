@@ -5,11 +5,15 @@
 	width: 200px;
  background-color:purple;
  border-left-color: green;
- border-left-width: 5px;
+	 border-style: solid;
+  border-left-width: 5px;
  padding:10px;
+	border-top-width: 0px;
+border-right-width: 0px;
+border-bottom-width: 0px;
 }
 #heading{
-	font-size: 20 pixels;
+	font-size: 20px;
 color: white;
 text-decoration: underline;
 }
